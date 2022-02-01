@@ -1,0 +1,21 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 7px 15px;
+    background-color: #1eac31;
+    border-style: none;
+    color: #fdffff;
+}
+input {
+    height: 24px;
+}
+span {
+    color: chartreuse;
+    font-size: 80px;
+    display:inline-block;transform: rotateZ(50deg);
+}
